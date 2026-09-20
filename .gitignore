@@ -1,0 +1,8 @@
+# Personal / private — not for public repo
+Certificates/
+design-notes.md
+deve-plan.md
+
+# OS junk files
+.DS_Store
+Thumbs.db
